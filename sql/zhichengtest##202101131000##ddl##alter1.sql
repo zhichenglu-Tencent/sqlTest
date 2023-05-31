@@ -1,0 +1,1 @@
+alter table yanshi add column region varchar(32) not null default '';

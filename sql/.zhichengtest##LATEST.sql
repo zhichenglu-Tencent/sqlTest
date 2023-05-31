@@ -11,3 +11,4 @@ CREATE UNIQUE INDEX `username` ON `yanshi` (`username`);
 
 CREATE UNIQUE INDEX `email` ON `yanshi` (`email`);
 
+

@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: SQL advise
         run: |
-          API="http://9.135.35.33:5678/hook/sql-review/9c472a71-6210-47bf-ac81-e692a4bda076-1685524544"
+          API="http://9.135.35.33:5678/hook/sql-review/9c472a71-6210-47bf-ac81-e692a4bda076-1685590728"
           TOKEN="${{ secrets.SQL_REVIEW_API_SECRET }}"
           echo "Start request $API"
 

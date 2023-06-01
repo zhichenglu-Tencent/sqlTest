@@ -1,4 +1,4 @@
-CREATE TABLE `yanshi2` (
+CREATE TABLE `yanshi3` (
                           `id` INT NOT NULL AUTO_INCREMENT COMMENT 'string',
                           `username` VARCHAR(50) NOT NULL,
                           `password` VARCHAR(255) NOT NULL,

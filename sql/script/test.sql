@@ -1,1 +1,1 @@
-select sleep(1);
+select sleep(2);

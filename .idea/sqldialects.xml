@@ -2,6 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/sql/.zhichengtest##LATEST.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/sql/zhichengtest##v1##ddl##create_table_yanshi1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/Prod/zhichengtest##v1##ddl##create_table_yanshi1.sql" dialect="GenericSQL" />
   </component>
 </project>
